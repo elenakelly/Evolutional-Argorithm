@@ -3,6 +3,7 @@
 Here you can see a Evolutional Algorithm that is tested on benchmark functions
 
 ## Benchmark functions
+Benchmark functions help us to understand if our algorithm works, thats why we used:
 * Rosenbrock
 * Rastrigin
 
